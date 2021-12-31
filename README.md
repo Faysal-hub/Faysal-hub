@@ -25,7 +25,7 @@ I'm Faysal, a Full Stack Web Application Developer from <img src="assets/banglad
 &nbsp;&nbsp;&nbsp;&nbsp;🍳 Cooking Bangladeshi Cuisine <br />
 &nbsp;&nbsp;&nbsp;&nbsp;🛫 Traveling<br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Faysal-hub&show_icons=true&theme=purple&hide_border=true&hide=contribs,prs)
+![Faysal's github stats](https://github-readme-stats.vercel.app/api?username=Faysal-hub&show_icons=true&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faysal-hub&layout=compact&hide_border=true)
 
