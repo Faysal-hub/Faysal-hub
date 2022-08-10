@@ -1,6 +1,6 @@
 # Hi there my well-wisher friends <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Faysal, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh living in <img src="assets/germany.png" width="18"/> Germany and working at [Weizenbaum Institute](https://www.weizenbaum-institut.de/). I have learned so much by overcoming the challenges that come with coding.
+I'm Faysal, a Front-end Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh living in <img src="assets/germany.png" width="18"/> Germany and working at [Weizenbaum Institute](https://www.weizenbaum-institut.de/). I have learned so much by overcoming the challenges that come with coding.
 
 :coffee: &emsp;Connect with me!
 
