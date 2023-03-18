@@ -1,6 +1,6 @@
 # Hi there my well-wisher friends <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Faysal, a Front-end Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh living in <img src="assets/germany.png" width="18"/> Germany and working at [Weizenbaum Institute](https://www.weizenbaum-institut.de/). I have learned so much by overcoming the challenges that come with coding.
+I'm Faysal, a Front-end Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh living in <img src="assets/germany.png" width="18"/> Germany and working at [3-boxes GmbH](https://www.3-boxes.com/). I have learned so much by overcoming the challenges that come with coding.
 
 :coffee: &emsp;Connect with me!
 
